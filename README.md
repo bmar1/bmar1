@@ -1,7 +1,7 @@
 # 💫 About Me:
 🔭 I’m currently learning about JavaFX and deeper Java game development. <br>
-🗒️  I'm also excited to continue to learn C++ and front-end technologies.<br>
-⚡ Fun fact, I love bunnies, cats, and love video games
+🗒️  I'm also excited to continue to learn C++ and technologies regarding backend, such as AWS, springboot etc.<br>
+⚡ Fun fact, I love animals and video games.
 
 
 # 💻 Tech Stack:
