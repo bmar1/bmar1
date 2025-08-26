@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently learning about JavaFX and deeper Java game development. <br>
+🔭 I’m currently learning about JavaFX, Maven, KryoNet and utilizing each to create a game. <br>
 🗒️  I'm also excited to continue to learn C++ and technologies regarding backend, such as AWS, springboot etc.<br>
 ⚡ Fun fact, I love animals and video games.
 
