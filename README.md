@@ -1,22 +1,39 @@
-# 💫 About Me:
-🔭 I’m currently learning about JavaFX, Maven, KryoNet and utilizing each to create a game. <br>
-🗒️  I'm also excited to continue to learn C++ and technologies regarding backend, such as AWS, springboot etc.<br>
-⚡ Fun fact, I love animals and video games.
+# Hi! I'm Bilal Umar 👋
 
+**2nd Year Computer Programming & Analysis Student | Seneca Polytechnic (3.5 GPA)**  
+Transferring to Computer Science at Ontario Tech University
 
-# 💻 Tech Stack:
+## 🚀 About Me
 
-# Languages
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+Performance-focused software developer with 1 year of experience building full-stack applications. I love optimizing systems and solving complex problems through code. When I'm not programming, you'll find me gaming or learning about new technologies.
 
-# Technologies
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+**Recent Achievements:**
+- 📈 Reduced application load times by **20%**
+- ⚡ Cut API response times by **24%** through caching & indexing
+- 🛣️ Optimized routing algorithms by **18%** using advanced data structures
 
-# Database
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+## 💻 Tech Stack
 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+
+## 🎯 My Mindset
+
+> **"Code with purpose, optimize relentlessly, and always measure impact."**
+
+I believe great software isn't just functional—it's efficient, scalable, and delivers measurable results. Every project is an opportunity to learn something new and make systems faster, better, and more reliable.
+
+## 📫 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/bmar1/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:bilalu4540@gmail.com)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=bmar1&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+*Currently seeking opportunities to contribute to impactful projects while growing as a software engineer.*
