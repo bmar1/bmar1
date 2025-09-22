@@ -46,7 +46,7 @@ Performance-focused software developer with 1 year of experience building full-s
 
 > **"Code with purpose, optimize relentlessly, and always measure impact."**
 
-I believe great software isn't just excellent through function, but it's efficient, innovative and deivers results. Every project is an opportunity to learn something new and make systems faster, better, and more reliable.
+I believe great software isn't just defined through function, but it's efficient, innovative and delivers results, whether that's through user metrics or any goals accomplished. Every project is an opportunity to learn something new and make systems faster, better, and more reliable. This is what I ingrain, everytime I work.
 
 ## 📫 Connect
 
