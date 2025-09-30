@@ -5,7 +5,7 @@
 
 ## 🚀 About Me
 
-Performance-focused software developer with 1 year of experience building full-stack applications. I love creating efficient, interesting solutions to complex problems through code. If I'm not programming, you'll find me learning about new technologies or furthering my interests in several fields, through personal development, physically and mentally.
+Performance-focused software developer with 2 years of experience building full-stack applications. I love creating efficient, interesting solutions to complex problems through code. If I'm not programming, you'll find me learning about new technologies or furthering my interests in several fields, through personal development, physically and mentally.
 
 **Recent Achievements:**
 - 📈 Reduced application load times by **20%**
