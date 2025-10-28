@@ -8,9 +8,9 @@
 Performance-focused software developer with 2 years of experience building full-stack applications. I love creating efficient, interesting solutions to complex problems through code. If I'm not programming, you'll find me learning about new technologies or furthering my interests in several fields, through personal development, physically and mentally.
 
 **Recent Achievements:**
-- 📈 Reduced application load times by **20%**
-- ⚡ Cut API response times by **24%** through caching & indexing
-- 🛣️ Optimized routing algorithms by **18%** using advanced data structures
+- 📈 Reduced application load times by **11%**
+- ⚡ Cut API response times by **16%** through caching & indexing
+- 🛣️ Optimized routing algorithms by **12%** using advanced data structures
 
 ## 💻 Tech Stack
 
