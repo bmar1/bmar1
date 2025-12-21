@@ -55,4 +55,3 @@ I believe great software isn't just defined through function, but it's efficient
 
 ---
 
-*Currently seeking opportunities to contribute to impactful projects while growing as a software engineer.*
