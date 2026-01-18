@@ -8,9 +8,9 @@
 Performance-focused software developer with 1 year of experience building full-stack applications. I love creating efficient, interesting solutions to complex problems through code. If I'm not programming, you'll find me learning about new technologies or at gym.
 
 **Recent Achievements:**
-- 📈 Reduced application load times by **11%**
-- ⚡ Cut API response times by **16%** through caching & indexing
-- 🛣️ Optimized routing algorithms by **12%** using advanced data structures
+-  Reduced application load times by **11%**
+-  Cut API response times by **16%** through caching & indexing
+-  Optimized routing algorithms by **12%** using advanced data structures
 
 ## Tech Stack
 
@@ -56,7 +56,7 @@ Performance-focused software developer with 1 year of experience building full-s
 
 > **"Code with purpose, optimize relentlessly, and always measure impact."**
 
-I believe great software isn't just defined through function, but it's efficient, innovative and delivers results, whether that's through user metrics or any goals accomplished. Every project is an opportunity to learn something new and make systems faster, better, and more reliable. This is what I ingrain, everytime I work.
+I believe great software isn't just defined through function, but it's efficient & innovative, whether that's through user metrics or any goals accomplished. Every project is an opportunity to learn something new and make systems faster & more reliable.
 
 ## 📫 Connect
 
