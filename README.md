@@ -5,7 +5,7 @@
 
 ## About Me
 
-Performance-focused software developer with 1 year of experience building full-stack applications. I love creating efficient, interesting solutions to complex problems through code. If I'm not programming, you'll find me learning about new technologies or at the gym.
+Software Engineer with 1 year of experience building full-stack applications. I love creating efficient, interesting solutions to complex problems through code. If I'm not programming, you'll find me learning about new technologies or at the gym.
 
 **Recent Achievements:**
 -  Reduced application load times by **11%**
@@ -20,8 +20,6 @@ Performance-focused software developer with 1 year of experience building full-s
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![C%23](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
 
 ---
 
@@ -47,14 +45,7 @@ Performance-focused software developer with 1 year of experience building full-s
 
 ---
 
-### **Databases**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
-
 ## My Mindset
-
-> **"Code with purpose, optimize relentlessly, and always measure impact."**
 
 I believe great software isn't just defined through function, but it's efficient & innovative, whether that's through user metrics or any goals accomplished. Every project is an opportunity to learn something new and make systems faster & more reliable.
 
