@@ -1,11 +1,11 @@
 # Hi! I'm Bilal Umar 👋
 
-**2nd Year Computer Programming & Analysis Student | Seneca Polytechnic**  
+**3rd Year Computer Programming & Analysis Student | Seneca Polytechnic**  
 
 
 ## About Me
 
-Software Engineer with 1 year of experience building full-stack applications. I love creating efficient, interesting solutions to complex problems through code. If I'm not programming, you'll find me learning about new technologies or at the gym.
+Software Engineer with 1 year of experience building full-stack applications. I love creating efficient, and scalable solutions, I'm deep into system design. If I'm not programming, you'll find me learning about new technologies or at the gym.
 
 **Recent Achievements:**
 -  Reduced application load times by **11%**
@@ -34,10 +34,6 @@ Software Engineer with 1 year of experience building full-stack applications. I 
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
 ---
-
-## My Mindset
-
-I believe great software isn't just defined through function, but it's efficient & innovative, whether that's through user metrics or any goals accomplished. Every project is an opportunity to learn something new and make systems faster & more reliable.
 
 ## 📫 Connect
 
