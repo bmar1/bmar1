@@ -14,11 +14,10 @@ AI tooling is just part of the job now.
 
 ## A few things I've built
 
-**Plated** — meal planning app on AWS. Pulls recipes from MealDB, prices ingredients 
-through Walmart's API. Had to build a unit normalization layer because grams and 
-kilograms don't cost the same. Sits at 86% test coverage.
+[**Plated**](https://plated-app.online/landing) — meal planning app on AWS. Pulls recipes from MealDB, prices ingredients through Walmart's API. 
+Had to build a unit normalization layer because grams and kilograms don't cost the same. Sits at 86% test coverage.
 
-**Nest** — rental search tool that aggregates Kijiji and Craigslist listings. 
+[**Nest**](https://nest-one-eta.vercel.app/) — rental search tool that aggregates Kijiji and Craigslist listings. 
 The overengineered one. Parallel scraping, rate limiting, CI/CD to GKE.
 
 ---
