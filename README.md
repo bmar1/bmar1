@@ -1,5 +1,6 @@
-<img align="right" width="350" style="margin-top: 50px;" src="/nightcity.jpg" alt="night city" />
-
+<table>
+<tr>
+<td valign="top">
 <pre>
 guest@bilal:~$ ./init.sh
 
@@ -14,8 +15,13 @@ guest@bilal:~$ ./init.sh
 [ OK ]  seneca cs
 [ OK ]  open to co-op, fall 2026
 </pre>
-
-<br clear="all" />
+</td>
+<td valign="top">
+<br><br>
+<img width="480" src="nightcity.jpg" alt="night city" />
+</td>
+</tr>
+</table>
 
 <div align="center">
 
