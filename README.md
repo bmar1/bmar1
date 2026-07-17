@@ -1,4 +1,4 @@
-<img align="right" width="350" src="/nightcity.jpg" alt="night city" />
+<img align="right" width="350" style="margin-top: 50px;" src="/nightcity.jpg" alt="night city" />
 
 <pre>
 guest@bilal:~$ ./init.sh
