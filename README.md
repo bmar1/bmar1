@@ -1,6 +1,5 @@
-<table>
-<tr>
-<td valign="middle">
+<img align="right" width="350" src="/nightcity.jpg" alt="night city" />
+
 <pre>
 guest@bilal:~$ ./init.sh
 
@@ -15,12 +14,8 @@ guest@bilal:~$ ./init.sh
 [ OK ]  seneca cs
 [ OK ]  open to co-op, fall 2026
 </pre>
-</td>
-<td valign="middle">
-<img src="/nightcity.jpg" width="440" alt="night city" />
-</td>
-</tr>
-</table>
+
+<br clear="all" />
 
 <div align="center">
 
@@ -57,7 +52,6 @@ Rental search that aggregates Kijiji and Craigslist listings. This is the overen
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white&labelColor=0D0221)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black&labelColor=0D0221)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white&labelColor=0D0221)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white&labelColor=0D0221)
 
 **frameworks & testing**  
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white&labelColor=0D0221)
@@ -66,7 +60,6 @@ Rental search that aggregates Kijiji and Craigslist listings. This is the overen
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white&labelColor=0D0221)
 ![JUnit](https://img.shields.io/badge/JUnit5-25A162?style=flat-square&logo=junit5&logoColor=white&labelColor=0D0221)
 ![Mockito](https://img.shields.io/badge/Mockito-78A641?style=flat-square&labelColor=0D0221)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white&labelColor=0D0221)
 
 **cloud & devops**  
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=FF9900&labelColor=0D0221)
@@ -75,18 +68,11 @@ Rental search that aggregates Kijiji and Craigslist listings. This is the overen
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white&labelColor=0D0221)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white&labelColor=0D0221)
 
-**databases**  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white&labelColor=0D0221)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white&labelColor=0D0221)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white&labelColor=0D0221)
-
 **tools & ai**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white&labelColor=0D0221)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white&labelColor=0D0221)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white&labelColor=0D0221)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white&labelColor=0D0221)
-![Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white&labelColor=0D0221)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black&labelColor=0D0221)
 
 ---
 
