@@ -17,7 +17,7 @@ guest@bilal:~$ ./init.sh
 </pre>
 </td>
 <td valign="middle">
-<img src="nightcity.jpg" width="440" alt="night city" />
+<img src="/nightcity.jpg" width="440" alt="night city" />
 </td>
 </tr>
 </table>
