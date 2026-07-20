@@ -45,7 +45,7 @@ Rental search that aggregates Kijiji and Craigslist listings. This is the overen
 ### `~$ cat now.md`
 
 ```
-> running technical workshops at Google Developer Group on campus
+> running technical workshops at Google Developer Group on campus (plus launching AWS SBG @ Seneca)
     mostly dev tooling, AI, and whatever's actually moving in industry
 > heavy Cursor and Claude user, not hiding it
     knowing how to work with AI tooling is just part of the job now
@@ -57,8 +57,3 @@ Rental search that aggregates Kijiji and Craigslist listings. This is the overen
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0D0221)](https://linkedin.com/in/bmar1/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white&labelColor=0D0221)](mailto:bilalu4540@gmail.com)
-
-```
-guest@bilal:~$ logout
-[ connection closed ]
-```
