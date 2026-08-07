@@ -9,7 +9,7 @@ guest@bilal:~$ ./init.sh
 ██████╔╝██║███████╗██║  ██║███████╗
 ╚═════╝ ╚═╝╚══════╝╚═╝  ╚═╝╚══════╝
 
-[ OK ]  full-stack engineer
+[ OK ]  engineering
 [ OK ]  seneca cs
 [ OK ]  open to co-op, fall 2026
 </pre>
