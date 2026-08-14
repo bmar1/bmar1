@@ -19,9 +19,9 @@ guest@bilal:~$ ./init.sh
 
 <br><br>
 
-![Location](https://img.shields.io/badge/loc-Toronto,_CA-05D9E8?style=flat-square&labelColor=0D0221)
-![School](https://img.shields.io/badge/@-Seneca_CS-FF2A6D?style=flat-square&labelColor=0D0221)
-![Status](https://img.shields.io/badge/co--op-fall_2026-00FF9F?style=flat-square&labelColor=0D0221)
+![Location](https://img.shields.io/badge/Location-Toronto%2C%20CA-05D9E8?style=flat-square&labelColor=0D0221)
+![School](https://img.shields.io/badge/School-Seneca%20CS-FF2A6D?style=flat-square&labelColor=0D0221)
+![Status](https://img.shields.io/badge/Co--op-Fall%202026-00FF9F?style=flat-square&labelColor=0D0221)
 
 </div>
 
