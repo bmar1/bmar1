@@ -17,12 +17,6 @@ guest@bilal:~$ ./init.sh
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=05D9E8&center=true&vCenter=true&width=620&height=45&lines=full-stack+engineer+%2F%2F+cloud-native;i+go+deeper+than+necessary;probably+didn%27t+need+kubernetes.+used+it+anyway" alt="Typing subtitle" />
 
-<br><br>
-
-![Location](https://img.shields.io/badge/Location-Toronto%2C%20CA-05D9E8?style=flat-square&labelColor=0D0221)
-![School](https://img.shields.io/badge/School-Seneca%20CS-FF2A6D?style=flat-square&labelColor=0D0221)
-![Status](https://img.shields.io/badge/Co--op-Fall%202026-00FF9F?style=flat-square&labelColor=0D0221)
-
 </div>
 
 
@@ -31,7 +25,7 @@ guest@bilal:~$ ./init.sh
 
 ### `~$ whoami`
 
-3rd year CS at Seneca. I build full-stack apps, mostly Java and React, deployed on whatever cloud fits the project. I've got a habit of going deeper than I probably need to. Nest, my rental search app, somehow ended up with RabbitMQ and GKE workers. Learned a ton doing it though, so worth it. I hope..
+3rd year CS at Seneca. I build systems, especially with Java Spring Boot (<3), deployed on whatever cloud fits the project. I've got a habit of going deeper than I probably need to. Nest, my rental search app, somehow ended up with RabbitMQ and GKE workers. Learned a ton doing it though, so worth it. I hope..
 
 ---
 
@@ -48,10 +42,13 @@ Rental search that aggregates Kijiji and Craigslist listings. This is the overen
 ### `~$ cat now.md`
 
 ```
-> running technical workshops at Google Developer Group on campus (plus launching AWS SBG @ Seneca)
-    mostly dev tooling, AI, and whatever's actually moving in industry
+> currently interning at the ontario government
+    learning how to build at a larger scale and it's impact with it for the public
+> running and launching AWS Student Builder Groups at Seneca
+    trying to enhance cloud engineering skills on campus through workshops and information sessions
 > heavy Cursor and Claude user, not hiding it
     knowing how to work with AI tooling is just part of the job now
+
 ```
 
 ---
