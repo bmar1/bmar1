@@ -16,6 +16,7 @@ guest@bilal:~$ ./init.sh
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=05D9E8&center=true&vCenter=true&width=620&height=45&lines=full-stack+engineer+%2F%2F+cloud-native;i+go+deeper+than+necessary;probably+didn%27t+need+kubernetes.+used+it+anyway." alt="typing subtitle" />
+    
 
 ![Location](https://img.shields.io/badge/loc-Toronto,_CA-05D9E8?style=flat-square&labelColor=0D0221)
 ![School](https://img.shields.io/badge/@-Seneca_CS-FF2A6D?style=flat-square&labelColor=0D0221)
