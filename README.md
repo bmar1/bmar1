@@ -11,8 +11,7 @@ guest@bilal:~$ ./init.sh
 
 [ OK ]  engineering
 [ OK ]  seneca cs
-[ OK ]  open to co-op, winter/fall 2026
-</pre>
+[ OK ]  open to co-op, winter/summer '27
 
 <div align="center">
 
