@@ -1,4 +1,4 @@
-
+<pre>
 guest@bilal:~$ ./init.sh
 
 ██████╗ ██╗██╗      █████╗ ██╗     
@@ -11,6 +11,7 @@ guest@bilal:~$ ./init.sh
 [ OK ]  engineering
 [ OK ]  seneca cs
 [ OK ]  open to co-op, winter/summer '27
+</pre>
     
 <div align="center">
 
