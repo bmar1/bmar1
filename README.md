@@ -27,16 +27,6 @@ guest@bilal:~$ ./init.sh
 
 ---
 
-### `~$ cat projects.md`
-
-**[▸ Plated](https://plated-app.online/landing)** &nbsp;`AWS` `Spring Boot` `86% coverage`  
-Meal planning app on AWS. It pulls recipes from MealDB and prices out ingredients through Walmart's API. I ended up building a whole unit-normalization layer because grams and kilograms don't cost the same.
-
-**[▸ Nest](https://nest-one-eta.vercel.app/)** &nbsp;`GKE` `RabbitMQ` `CI/CD`  
-Rental search that aggregates Kijiji and Craigslist listings. This is the overengineered one. Parallel scraping, rate limiting, and workers running on GKE.
-
----
-
 ### `~$ cat now.md`
 
 ```
@@ -46,8 +36,17 @@ Rental search that aggregates Kijiji and Craigslist listings. This is the overen
     trying to enhance cloud engineering skills on campus through workshops and information sessions
 > heavy Cursor and Claude user, not hiding it
     knowing how to work with AI tooling is just part of the job now
-
 ```
+
+---
+
+### `~$ cat projects.md`
+
+**[▸ Plated](https://plated-app.online/landing)** &nbsp;`AWS` `Spring Boot` `86% coverage`  
+Meal planning app on AWS. It pulls recipes from MealDB and prices out ingredients through Walmart's API. I ended up building a whole unit-normalization layer because grams and kilograms don't cost the same.
+
+**[▸ Nest](https://nest-one-eta.vercel.app/)** &nbsp;`GKE` `RabbitMQ` `CI/CD`  
+Rental search that aggregates Kijiji and Craigslist listings. This is the overengineered one. Parallel scraping, rate limiting, and workers running on GKE.
 
 ---
 
